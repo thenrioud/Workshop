@@ -22,18 +22,20 @@ div {
 }
 
 body {
-    font-family: 'Permanent Marker';
-    font-size: 500px;
-	color: pink;
-    text-align: center;
-    padding: 20px;
 	background-color: yellow;
+}
+
+.titre, a {
+    font-family: 'Permanent Marker';
+    font-size: 480px;
+	color: pink;
+    padding: 20px;
+	text-decoration: none;
 	text-shadow:
 #ffffff 3px 3px 3px,
 #ffffff -1px 1px 1px,
 #ffffff -1px -1px 1px,
 #ffffff 1px -1px 1px;
-
 }
 
 img {
