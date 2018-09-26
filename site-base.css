@@ -15,20 +15,21 @@ div {
 
 /* liens vers la typo */
 @font-face {
-    font-family: 'Bangers';
+    font-family: 'Permanent Marker';
     src: url('fonts/Bangers/Bangers-Regular.ttf') format('woff2'),
+         url('fonts/Permanent_Marker/PermanentMarker-Regular.ttf') format('woff');
     font-weight: normal;
 }
 
 body {
-	background-color: white;
+	background-color: yellow;
 
 }
 
 .titre, a {
-    font-family: 'Bangers';
-    font-size: 50px;
-	color: black;
+    font-family: 'Permanent Marker';
+    font-size: 480px;
+	color: pink;
     padding: 20px;
 	text-decoration: none;
 	text-shadow:
