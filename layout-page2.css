@@ -15,7 +15,7 @@ div {
 
 /* liens vers la typo */
 @font-face {
-    font-family: 'Permanent Marker';
+    font-family: 'Bangers';
     src: url('fonts/Bangers/Bangers-Regular.ttf') format('woff2'),
          url('fonts/Permanent_Marker/PermanentMarker-Regular.ttf') format('woff');
     font-weight: normal;
@@ -28,9 +28,9 @@ body {
 
 .titre, a {
     font-family: 'Permanent Marker';
-    font-size: 90px;
+    font-size: 60px;
 	color: pink;
-    padding: 20px;
+    padding: 700px;
 	text-decoration: none;
 }
 
