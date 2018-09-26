@@ -22,22 +22,16 @@ div {
 }
 
 body {
-	background-color: yellow;
-
+	background-color: white;
 }
+
 
 .titre, a {
     font-family: 'Permanent Marker';
-    font-size: 480px;
+    font-size: 90px;
 	color: pink;
     padding: 20px;
 	text-decoration: none;
-	text-shadow:
-#ffffff 3px 3px 3px,
-#ffffff -1px 1px 1px,
-#ffffff -1px -1px 1px,
-#ffffff 1px -1px 1px;
-margin: center;
 }
 
 img {
@@ -47,9 +41,6 @@ img {
 .titre {
     margin-top: 50px;
 }
-
-
-
 
 /* RESPONSIVE */
 
