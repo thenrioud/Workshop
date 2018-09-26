@@ -37,7 +37,6 @@ body {
 #ffffff -1px 1px 1px,
 #ffffff -1px -1px 1px,
 #ffffff 1px -1px 1px;
-margin: center;
 }
 
 img {
@@ -45,7 +44,7 @@ img {
     margin-top: 50px;
 }
 .titre {
-    margin-top: 50px;
+    margin-top: 250px;
 }
 
 
