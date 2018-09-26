@@ -32,10 +32,11 @@ body {
 	color: pink;
     padding: 700px;
 	text-decoration: none;
+
 }
 
 .titre {
-    margin-top: 50px;
+    margin-top: 100px;
 }
 
 .traits-coupe {
@@ -47,10 +48,10 @@ body {
 .canvas {
     border: 2px solid blue;
     position: absolute;
-    width: 430px;
-    height: 595px;
-    margin-top: 50vh;
-    top: -300px;
+    width: 630px;/*430px;*/
+    height: 795px;/*595px;*/
+    margin-top: 40vh;
+    top: -200px;
     left: 50px;
 }
 .zone-travail {
@@ -58,12 +59,12 @@ body {
     position: absolute;
     top: -100px;
     left: 0px;
-    width: 1500px;
-    height: 700px;
+    width: 1800px;
+    height: 900px;
 }
 .outils {
 	position: absolute;
-    top: -100px;
+    top: 0px;
     right: 0px;
 	width: 700px;
 }
@@ -82,14 +83,15 @@ body {
 }
 
 /* ÉCRAN (VALEURS MINIMUM) */
-@media screen and (min-width: 480px) {
+/*@media screen and (min-width: 480px) {
 
-}
+}*/
 /* ÉCRAN (VALEURS MAXIMUM) */
-@media screen and (max-width: 480px) {
+/*@media screen and (max-width: 480px) {
     .titre {
         color: red;
     }
+}*/
 }
 
 /* IMPRESSION */

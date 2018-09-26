@@ -57,15 +57,15 @@ body {
 }
 
 /* ÉCRAN (VALEURS MINIMUM) */
-@media screen and (min-width: 480px) {
+/*@media screen and (min-width: 480px) {
 
-}
+}*/
 /* ÉCRAN (VALEURS MAXIMUM) */
-@media screen and (max-width: 480px) {
+/*@media screen and (max-width: 480px) {
     .titre {
         color: red;
     }
-}
+}*/
 
 /* IMPRESSION */
 
